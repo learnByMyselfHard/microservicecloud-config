@@ -18,7 +18,7 @@ eureka:
 
 ---
 server:
-  port: 7002
+  port: 7003
 spring:
   profiles: dev
 eureka:
