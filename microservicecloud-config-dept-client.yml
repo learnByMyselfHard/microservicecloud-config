@@ -39,7 +39,7 @@ eureka:
 
 ---
 server:
-  port: 7001
+  port: 8001
 
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml        
